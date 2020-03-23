@@ -24,7 +24,7 @@
   *trained from scratch. These improvements come at no additional labeling cost*
   as the meta data is freely available.* 
 
-
+[Paper](https://people.cs.umass.edu/~smaji/papers/pen-3dv19.pdf)
 
 ### Cite:
 ```bibtex
